@@ -18,11 +18,11 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram bot token from @BotFather",
+      "description": "8144453543:AAGnq6Gs31SNOfymiFbTplBs6mXyO5iW5wM",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram user ID (integer, e.g. 123456789)",
+      "description": "5569963759",
       "required": true
     },
     "MongoDB_url": {
