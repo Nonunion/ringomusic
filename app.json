@@ -6,11 +6,11 @@
   "keywords": ["telegram", "music", "bot", "vc", "python"],
   "env": {
     "API_HASH": {
-      "description": "Your Telegram API_HASH from https://my.telegram.org",
+      "description": "e04572067573fd1bf2151968006b443d",
       "required": true
     },
     "API_ID": {
-      "description": "Your Telegram API_ID from https://my.telegram.org",
+      "description": "25225399 ",
       "required": true
     },
     "ASSISTANT_SESSION": {
